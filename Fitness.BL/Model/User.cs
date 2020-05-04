@@ -11,6 +11,7 @@ namespace Fitness.BL.Model
     /// <summary>
     /// Пользователь
     /// </summary>
+    [Serializable]
     public class User
     {
         #region Свойства
@@ -53,7 +54,7 @@ namespace Fitness.BL.Model
                 throw new ArgumentNullException("Имя пользователя не может быть пустым или null");
             }
 
-            if (Gender == null)
+            if (gender == null)
             {
                 throw new ArgumentNullException("Пол не может быть null", nameof(gender));
             }
