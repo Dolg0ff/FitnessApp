@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics.Eventing.Reader;
+using System.Globalization;
 using System.Linq;
+using System.Resources;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
@@ -14,7 +16,10 @@ namespace Fitness.CMD
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Вас приветствует приложение Fitness");
+            var culture = CultureInfo.CreateSpecificCulture("en-us");
+            var resourceManager = new ResourceManager("Fitness.CMD.Languages.Messages", typeof(Program).Assembly);
+
+            Console.WriteLine(resourceManager.GetString("Hello", culture));
 
             Console.WriteLine("Введите имя пользователя:");
             var name = Console.ReadLine();

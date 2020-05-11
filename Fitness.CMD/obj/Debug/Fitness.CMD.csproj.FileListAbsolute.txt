@@ -8,3 +8,11 @@ C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.csp
 C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.CopyComplete
 C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.exe
 C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.pdb
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.Languages.Messages.resources
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.csproj.GenerateResource.cache
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\bin\Debug\en-us\Fitness.CMD.resources.dll
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\bin\Debug\ru-ru\Fitness.CMD.resources.dll
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.Languages.Messages.en-us.resources
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\Fitness.CMD.Languages.Messages.ru-ru.resources
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\en-us\Fitness.CMD.resources.dll
+C:\Users\Юрий\source\repos\Fitness App\Fitness.CMD\obj\Debug\ru-ru\Fitness.CMD.resources.dll
